@@ -1,4 +1,4 @@
 #USERNAME, PASSWORD AND MFA TOKEN
-config.py
+secret.py
 __pycache__
 .DS_Store
