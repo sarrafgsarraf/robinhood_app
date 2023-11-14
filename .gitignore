@@ -1,4 +1,5 @@
 #USERNAME, PASSWORD AND MFA TOKEN
 secret.py
+portfolio_stats*.csv
 __pycache__
 .DS_Store
